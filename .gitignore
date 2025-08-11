@@ -183,11 +183,11 @@ faiss_index/
 *.faiss
 
 # 文档文件
-docs/
-*.pdf
-*.doc
-*.docx
-*.txt
+# docs/
+# *.pdf
+# *.doc
+# *.docx
+# *.txt
 
 # 模型文件
 models/
